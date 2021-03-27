@@ -1,1 +1,1 @@
-web: gunicorn DiscordWebhookApp.wsgi --log-file -
+web: gunicorn webhookApp.wsgi --log-file -
