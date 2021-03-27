@@ -1,0 +1,1 @@
+web: gunicorn DiscordWebhookApp.wsgi --log-file -
